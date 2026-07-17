@@ -1,0 +1,17 @@
+* {
+    background-color: rgb(5, 188, 249);
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    color: black;
+
+    h1 { 
+        font-size: 40px;
+        font-weight: bold;
+        color: black;
+        font-family: monospace; 
+    }
+
+    h2 {
+        font-size: 20px;
+        color: rgb(164, 245, 1);
+    }
+}
